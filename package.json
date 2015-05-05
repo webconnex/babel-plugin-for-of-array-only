@@ -1,14 +1,14 @@
 {
-  "name": "babel-plugin-forOf-array-only",
+  "name": "babel-plugin-for-of-array-only",
   "version": "1.0.0",
   "description": "Babel plugin that forces forOf transform to be array only",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webconnex/babel-plugin-forOf-array-only"
+    "url": "https://github.com/webconnex/babel-plugin-for-of-array-only"
   },
   "bugs": {
-    "url": "https://github.com/webconnex/babel-plugin-forOf-array-only/issues"
+    "url": "https://github.com/webconnex/babel-plugin-for-of-array-only/issues"
   },
-  "homepage": "https://github.com/webconnex/babel-plugin-forOf-array-only"
+  "homepage": "https://github.com/webconnex/babel-plugin-for-of-array-only"
 }
