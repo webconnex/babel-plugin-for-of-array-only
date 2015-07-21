@@ -1,5 +1,6 @@
 var Transformer = require("babel-core").Transformer;
-var tpath = "babel-core/lib/babel/transformation/transformers";
+// FIXME: This is considered internal. Need to find a better way to do this.
+var tpath = "babel-core/lib/transformation/transformers";
 var _ForOfStatementArray = require(tpath+"/es6/for-of")._ForOfStatementArray;
 
 module.exports = new Transformer("for-of-array-only", {
