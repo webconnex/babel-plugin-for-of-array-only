@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-for-of-array-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel plugin that forces forOf transform to be array only",
   "main": "index.js",
   "repository": {
